@@ -1,2 +1,16 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="preface"]{
+	margin-top: 4em;
+}
