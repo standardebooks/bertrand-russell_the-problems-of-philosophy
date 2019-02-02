@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee3a6b76-bd86-469c-a963-0b0d0416b895" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/epub/text/chapter-1.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/epub/text/chapter-1.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/epub/text/chapter-10.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/epub/text/chapter-10.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/epub/text/chapter-11.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/epub/text/chapter-11.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/epub/text/chapter-12.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/epub/text/chapter-12.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/epub/text/chapter-13.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/epub/text/chapter-13.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/epub/text/chapter-14.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/epub/text/chapter-14.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/epub/text/chapter-15.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/epub/text/chapter-15.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/epub/text/chapter-16.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/epub/text/chapter-16.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/epub/text/chapter-17.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/epub/text/chapter-17.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/epub/text/chapter-2.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/epub/text/chapter-2.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/epub/text/chapter-3.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/epub/text/chapter-3.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/epub/text/chapter-4.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/epub/text/chapter-4.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/epub/text/chapter-5.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/epub/text/chapter-5.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/epub/text/chapter-6.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/epub/text/chapter-6.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/epub/text/chapter-7.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/epub/text/chapter-7.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/epub/text/chapter-8.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/epub/text/chapter-8.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/epub/text/chapter-9.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/epub/text/chapter-9.xhtml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1799441276">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="xhtml" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="XHTML" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="xhtml" value="63" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="XHTML" value="63" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-9.xhtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-10.xhtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-11.xhtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-12.xhtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-13.xhtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-14.xhtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-15.xhtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-16.xhtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-17.xhtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-7.xhtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>’</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>”</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/epub/text/chapter-1.xhtml" />
+        <option value="$PROJECT_DIR$/src/epub/text/chapter-2.xhtml" />
+        <option value="$PROJECT_DIR$/src/epub/text/chapter-3.xhtml" />
+        <option value="$PROJECT_DIR$/src/epub/text/chapter-4.xhtml" />
+        <option value="$PROJECT_DIR$/src/epub/text/chapter-5.xhtml" />
+        <option value="$PROJECT_DIR$/src/epub/text/chapter-6.xhtml" />
+        <option value="$PROJECT_DIR$/src/epub/text/chapter-8.xhtml" />
+        <option value="$PROJECT_DIR$/src/epub/text/chapter-9.xhtml" />
+        <option value="$PROJECT_DIR$/src/epub/text/chapter-10.xhtml" />
+        <option value="$PROJECT_DIR$/src/epub/text/chapter-11.xhtml" />
+        <option value="$PROJECT_DIR$/src/epub/text/chapter-12.xhtml" />
+        <option value="$PROJECT_DIR$/src/epub/text/chapter-13.xhtml" />
+        <option value="$PROJECT_DIR$/src/epub/text/chapter-14.xhtml" />
+        <option value="$PROJECT_DIR$/src/epub/text/chapter-15.xhtml" />
+        <option value="$PROJECT_DIR$/src/epub/text/chapter-16.xhtml" />
+        <option value="$PROJECT_DIR$/src/epub/text/chapter-17.xhtml" />
+        <option value="$PROJECT_DIR$/src/epub/text/chapter-7.xhtml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="208" />
+    <option name="y" value="16" />
+    <option name="width" value="1120" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bertrand-russell_the-problems-of-philosophy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bertrand-russell_the-problems-of-philosophy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bertrand-russell_the-problems-of-philosophy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bertrand-russell_the-problems-of-philosophy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bertrand-russell_the-problems-of-philosophy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bertrand-russell_the-problems-of-philosophy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="epub" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bertrand-russell_the-problems-of-philosophy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bertrand-russell_the-problems-of-philosophy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="epub" type="462c0819:PsiDirectoryNode" />
+              <item name="text" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee3a6b76-bd86-469c-a963-0b0d0416b895" name="Default Changelist" comment="" />
+      <created>1549090729867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549090729867</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-1.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-2.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-3.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-4.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-5.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-6.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-8.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-9.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-10.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-11.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-12.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-13.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-14.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-15.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-16.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-17.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/epub/text/chapter-7.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
