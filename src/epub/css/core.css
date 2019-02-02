@@ -84,6 +84,11 @@ header{
 	text-align: center;
 }
 
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
 article > header + *,
 section > header + *{
 	margin-top: 3em;
