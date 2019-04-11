@@ -40,8 +40,10 @@
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">Short description placeholder for this ebook.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"> 
-			&lt;p&gt;Lorem ipsum.&lt;/p&gt;
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;&lt;i&gt;Problems of Philosophy&lt;/i&gt;, published in 1912, is an excellent introductory book for a beginner in philosophical studies. In this book, the author attempts to provoke a discussion by posing different problems.&lt;/p&gt;
+			&lt;p&gt;The book covers a wide variety of theories proposed by philosophers like Plato, Descartes, Hume, Aristotle, etc. In view of these theories, the author poses questions about the nature of reality and our perception of it.&lt;/p&gt;
+			&lt;p&gt;While the book refrains from providing absolute solutions to the problems it describes, it excelles in guiding the readers towards developing their own way of thinking.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
@@ -57,6 +59,7 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79056054</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Floris Claesz. van Dijck</dc:contributor>
 		<meta property="file-as" refines="#artist"> Floris Claesz. van Dijck</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Floris_van_Dyck</meta>
