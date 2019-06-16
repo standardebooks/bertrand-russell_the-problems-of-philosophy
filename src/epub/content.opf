@@ -38,10 +38,10 @@
 		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/5827</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Philosophy</meta>
-		<dc:description id="description">Short description placeholder for this ebook.</dc:description>
+		<dc:description id="description">A beginner's guide to problems in various fields of pholosophy.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Problems of Philosophy&lt;/i&gt;, published in 1912, is an excellent introductory book for a beginner in philosophical studies. In this book, the author attempts to provoke a discussion by posing different problems.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Problems of Philosophy&lt;/i&gt;, published in 1912, is an excellent introductory book for a beginner in philosophical studies. In this book, the author attempts to provoke a discussion by posing different problems.&lt;/p&gt;
 			&lt;p&gt;The book covers a wide variety of theories proposed by philosophers like Plato, Descartes, Hume, Aristotle, etc. In view of these theories, the author poses questions about the nature of reality and our perception of it.&lt;/p&gt;
 			&lt;p&gt;While the book refrains from providing absolute solutions to the problems it describes, it excelles in guiding the readers towards developing their own way of thinking.&lt;/p&gt;
 		</meta>
