@@ -2,9 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/bertrand-russell/the-problems-of-philosophy</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2019-07-16T16:44:31Z</dc:date>
+		<meta property="dcterms:modified">2019-07-16T16:44:31Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -27,29 +26,31 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Problems of Philosophy</dc:title>
 		<meta property="file-as" refines="#title">Problems of Philosophy, The</meta>
 		<dc:subject id="subject-1">Knowledge, Theory of</dc:subject>
 		<dc:subject id="subject-2">Metaphysics</dc:subject>
 		<dc:subject id="subject-3">Philosophy -- Introductions</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/5827</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/5827</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/5827</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85072732</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85084286</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85100851</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">A beginner’s guide to problems in various fields of philosophy.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Problems of Philosophy&lt;/i&gt;, published in 1912, is an excellent introductory book for a beginner in philosophical studies. In this book, the author attempts to provoke a discussion by posing different problems.&lt;/p&gt;
-			&lt;p&gt;The book covers a wide variety of theories proposed by philosophers like Plato, Descartes, Hume, Aristotle, etc. In view of these theories, the author poses questions about the nature of reality and our perception of it.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Problems of Philosophy&lt;/i&gt;, published in 1912, is an introductory book for a beginner in philosophical studies. In this book, the author attempts to provoke a discussion by posing different problems.&lt;/p&gt;
+			&lt;p&gt;The book covers a wide variety of theories proposed by philosophers like Plato, Descartes, Hume, Aristotle, etc. In view of these theories, Russell poses questions about the nature of reality and our perception of it.&lt;/p&gt;
 			&lt;p&gt;While the book refrains from providing absolute solutions to the problems it describes, it excels in guiding the readers towards developing their own way of thinking.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5827</dc:source>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<dc:source>https://archive.org/details/problemsofphilo00russuoft</dc:source>
+		<meta property="se:word-count">42810</meta>
+		<meta property="se:reading-ease.flesch">51.62</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Problems_of_Philosophy</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/bertrand-russell_the-problems-of-philosophy</meta>
 		<dc:creator id="author">Bertrand Russell</dc:creator>
@@ -79,6 +80,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
