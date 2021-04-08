@@ -1,6 +1,10 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+ol{
+	list-style: lower-alpha;
+}
+
 footer{
 	margin-top: 1em;
 	text-align: right;
