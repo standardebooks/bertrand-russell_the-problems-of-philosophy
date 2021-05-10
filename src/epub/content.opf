@@ -50,7 +50,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5827</dc:source>
 		<dc:source>https://archive.org/details/problemsofphilo00russuoft</dc:source>
-		<meta property="se:word-count">42806</meta>
+		<meta property="se:word-count">42875</meta>
 		<meta property="se:reading-ease.flesch">51.62</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Problems_of_Philosophy</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/bertrand-russell_the-problems-of-philosophy</meta>
