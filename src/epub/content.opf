@@ -44,7 +44,7 @@
 		<dc:description id="description">A beginner’s guide to problems in various fields of philosophy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Problems of Philosophy&lt;/i&gt;, published in 1912, is an introductory book for a beginner in philosophical studies. In this book, the author attempts to provoke a discussion by posing different problems.&lt;/p&gt;
-			&lt;p&gt;The book covers a wide variety of theories proposed by philosophers like Plato, Descartes, Hume, &lt;a href="https://standardebooks.org/ebooks/aristotle"&gt;Aristotle&lt;/a&gt;, &lt;abbr&gt;etc.&lt;/abbr&gt; In view of these theories, &lt;a href="https://standardebooks.org/ebooks/bertrand-russell"&gt;Russell&lt;/a&gt; poses questions about the nature of reality and our perception of it.&lt;/p&gt;
+			&lt;p&gt;The book covers a wide variety of theories proposed by philosophers like &lt;a href="https://standardebooks.org/ebooks/plato"&gt;Plato&lt;/a&gt;, Descartes, Hume, &lt;a href="https://standardebooks.org/ebooks/aristotle"&gt;Aristotle&lt;/a&gt;, &lt;abbr&gt;etc.&lt;/abbr&gt; In view of these theories, &lt;a href="https://standardebooks.org/ebooks/bertrand-russell"&gt;Russell&lt;/a&gt; poses questions about the nature of reality and our perception of it.&lt;/p&gt;
 			&lt;p&gt;While the book refrains from providing absolute solutions to the problems it describes, it excels in guiding the readers towards developing their own way of thinking.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
