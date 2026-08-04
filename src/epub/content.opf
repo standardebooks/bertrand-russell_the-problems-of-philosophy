@@ -43,7 +43,7 @@
 		<meta property="schema:genre">Philosophy</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:abstract>A beginner’s guide to problems in various fields of philosophy.</dc:abstract>
+		<meta property="schema:abstract">A beginner’s guide to problems in various fields of philosophy.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Problems of Philosophy&lt;/i&gt;, published in 1912, is an introductory book for a beginner in philosophical studies. In this book, the author attempts to provoke a discussion by posing different problems.&lt;/p&gt;
 			&lt;p&gt;The book covers a wide variety of theories proposed by philosophers like &lt;a href="https://standardebooks.org/ebooks/plato"&gt;Plato&lt;/a&gt;, Descartes, Hume, &lt;a href="https://standardebooks.org/ebooks/aristotle"&gt;Aristotle&lt;/a&gt;, &lt;abbr&gt;etc.&lt;/abbr&gt; In view of these theories, &lt;a href="https://standardebooks.org/ebooks/bertrand-russell"&gt;Russell&lt;/a&gt; poses questions about the nature of reality and our perception of it.&lt;/p&gt;
